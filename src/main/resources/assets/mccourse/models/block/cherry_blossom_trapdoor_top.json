@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "mccourse:block/cherry_blossom_trapdoor"
+  }
+}

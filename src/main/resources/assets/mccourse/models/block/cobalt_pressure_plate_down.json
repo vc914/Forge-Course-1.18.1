@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/pressure_plate_down",
+  "textures": {
+    "texture": "mccourse:block/cobalt_block"
+  }
+}

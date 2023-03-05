@@ -1,0 +1,58 @@
+{
+  "Type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "enchantment": [
+                      {
+                        "enchantment": "minecraft:silk_touch",
+                        "levels": {
+                          "min": 1
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "name": "mccourse:cobalt_ore"
+            },
+            {
+              "type": "mincraft:item",
+              "function": [
+                {
+                  "function": "mincraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 2.0,
+                    "max": 5.0
+                  },
+                  "add": false
+                },
+                {
+                  "function": "mincraft:explosion_decay",
+                  "enchantment": "mincraft:fortune",
+                  "formula": "minecrft:ore_drops"
+                },
+                {
+                  "funtion": "mincraft:explosion_decay"
+                }
+              ],
+              "name": "mccouse:raw_cobalt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

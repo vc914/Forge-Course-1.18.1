@@ -1,7 +1,57 @@
 {
   "item.mccourse.cobalt_ingot": "cobalt_ingot",
   "item.mccourse.cobalt_nugget": "cobalt_nugget",
+  "item.mccourse.dowsing_rod": "dowsing_rod",
+  "item.mccourse.raw_cobalt": "raw_cobalt",
+  "item.mccourse.coal_sliver": "coal_sliver",
+  "item.mccourse.turnip": "turnip",
+  "item.mccourse.cobalt_sword": "cobalt_sword",
+  "item.mccourse.cobalt_axe": "cobalt_axe",
+  "item.mccourse.cobalt_pickaxe": "cobalt_pickaxe",
+  "item.mccourse.cobalt_shovel": "cobalt_shovel",
+  "item.mccourse.cobalt_hoe": "cobalt_hoe",
+  "item.mccourse.cobalt_paxel": "cobalt_paxel",
+  "item.mccourse.turnip_seeds": "turnip_seeds",
+  "item.mccourse.cobalt_staff": "cobalt_staff",
+  "item.mccourse.cobalt_bow": "cobalt_bow",
 
-  "block.mccourse.cobalt_block": "cobalt block",
-  "block.mccourse.cobalt_ore": "cobalt ore"
+  "item.mccourse.cobalt_helmet": "cobalt_helmet",
+  "item.mccourse.cobalt_chestplate": "cobalt_chestplate",
+  "item.mccourse.cobalt_leggings": "cobalt_leggings",
+  "item.mccourse.cobalt_boots": "cobalt_boots",
+  "item.mccourse.cobalt_horse_armor": "cobalt_horse_armor",
+  "item.mccourse.data_tablet": "data_tablet",
+  "item.mccourse.mob_tablet": "mob_tablet",
+  "item.mccourse.bar_brawl_music_disc": "Bar_Brawl_Music_Disc",
+  "item.mccourse.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+
+
+  "block.mccourse.cobalt_block": "cobalt_block",
+  "block.mccourse.cobalt_ore": "cobalt_ore",
+  "block.mccourse.raw_cobalt-block": "raw_cobalt_block",
+  "block.mccourse.speedy_block": "speedy_block",
+  "block.mccourse.cobalt_stairs": "cobalt_stairs",
+  "block.mccourse.cobalt_slab": "cobalt_slab",
+  "block.mccourse.cobalt_pressure_plate": "cobalt_pressure_plate",
+  "block.mccourse.cobalt_button": "cobalt_button",
+  "block.mccourse.cobalt_fence": "cobalt_fence",
+  "block.mccourse.cobalt_fence_gate": "cobalt_fence_gate",
+  "block.mccourse.cobalt_wall": "cobalt_wall",
+  "block.mccourse.cherry_blossom_door": "cherry_blossom_door",
+  "block.mccourse.cherry_blossom_trapdoor": "cherry_blossom_trapdoor",
+  "block.mccourse.cobalt_lamp_block": "cobalt_lamp_block",
+  "block.mccourse.turnip_crop": "turnip_crop",
+  "block.mccourse.pink_rose": "pink_rose",
+  "block.mccourse.potted_pink_rose": "potted_pink_rose",
+  "block.mccourse.cobalt_blaster": "cobalt_blaster",
+
+  "itemGroup.coursemodtab": "MCCourse Mod",
+
+  "item.mccourse.dowsing_rod.no_valuables": "No Valuables Found",
+  "tooltip.mccourse.dowsing_rod.tooltip.shift": "Right CLick to find Valuable",
+  "tooltip.mccourse.dowsing_rod.tooltip": "Press §eShift§r for more Information",
+  "tooltip.block.speedy_block": "It gets Relly speedy!",
+
+  "enchantment.mccourse.lightning_striker": "Lightning Striker"
 }

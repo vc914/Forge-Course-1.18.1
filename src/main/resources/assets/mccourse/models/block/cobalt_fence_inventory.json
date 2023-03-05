@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/fence_inventory",
+  "textures": {
+    "texture": "mccourse:block/cobalt_block"
+  }
+}

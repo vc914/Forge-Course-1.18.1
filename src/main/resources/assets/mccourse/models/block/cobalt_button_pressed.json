@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/button_pressed",
+  "textures": {
+    "texture": "mccourse:block/cobalt_block"
+  }
+}

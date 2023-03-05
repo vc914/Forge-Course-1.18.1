@@ -1,0 +1,29 @@
+{
+  "item.mccourse.cobalt_ingot": "cobalt_ingot",
+  "item.mccourse.cobalt_nugget": "cobalt_nugget",
+  "item.mccourse.dowsing_rod": "dowsing_rod",
+  "item.mccourse.raw_cobalt": "raw_cobalt",
+  "item.mccourse.coal_sliver": "coal_sliver",
+  "item.mccourse.turnip": "turnip",
+
+  "block.mccourse.cobalt_block": "cobalt_block",
+  "block.mccourse.cobalt_ore": "cobalt_ore",
+  "block.mccourse.raw_cobalt-block": "raw_cobalt_block",
+  "block.mccourse.speedy_block": "speedy_block",
+  "block.mccourse.cobalt_stairs": "cobalt_stairs",
+  "block.mccourse.cobalt_slab": "cobalt_slab",
+  "block.mccourse.cobalt_pressure_plate": "cobalt_pressure_plate",
+  "block.mccourse.cobalt_button": "cobalt_button",
+  "block.mccourse.cobalt_fence": "cobalt_fence",
+  "block.mccourse.cobalt_fence_gate": "cobalt_fence_gate",
+  "block.mccourse.cobalt_wall": "cobalt_wall",
+  "block.mccourse.cherry_blossom_door": "cherry_blossom_door",
+  "block.mccourse.cherry_blossom_trapdoor": "cherry_blossom_trapdoor",
+
+  "itemGroup.coursemodtab": "MCCourse Mod",
+
+  "item.mccourse.dowsing_rod.no_valuables": "No Valuables Found",
+  "tooltip.mccourse.dowsing_rod.tooltip.shift": "Right CLick to find Valuable",
+  "tooltip.mccourse.dowsing_rod.tooltip": "Press §eShift§r for more Information",
+  "tooltip.block.speedy_block": "It gets Relly speedy!"
+}

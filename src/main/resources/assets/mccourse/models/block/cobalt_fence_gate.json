@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/template_fence_gate",
+  "textures": {
+    "texture": "mccourse:block/cobalt_block"
+  }
+}
