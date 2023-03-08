@@ -1,0 +1,9 @@
+{
+  "variants=false": {
+    "clicked=false": {
+      "model": "mccourse:block/cobalt_lamp_off"
+    },
+    "clicked=true": {
+      "model": "mccourse:block/cobalt_lamp_off"}
+  }
+}

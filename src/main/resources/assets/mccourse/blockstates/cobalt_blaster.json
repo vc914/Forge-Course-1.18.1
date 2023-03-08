@@ -1,0 +1,8 @@
+{
+  "Variants": {
+    "facing=north": { "Model": "mccourse:block/cobalt_Blaster" },
+    "facing=east": { "Model": "mccourse:block/cobalt_Blaster", "y": 90},
+    "facing=south": { "Model": "mccourse:block/cobalt_Blaster", "Y": 180 },
+    "facing=west": { "Model": "mccourse:block/cobalt_Blaster", "Y": 270}
+  }
+}

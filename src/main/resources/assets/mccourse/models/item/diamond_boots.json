@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:item/generated",
+  "textures": {
+    "layer0": "mccourse:item/cobalt_boots"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/cross",
+  "textures": {
+    "cross": "mccourse:block/pink_rose"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mccourse:block/crop",
+  "textures": {
+    "crop": "mccourse:block/turnip_stage3"
+  }
+}
